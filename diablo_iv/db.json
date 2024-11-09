@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "id": "1731124891668",
+      "nome": "definir",
+      "classe": "definir",
+      "elmo": "",
+      "peitoral": "",
+      "calca": "",
+      "botas": "",
+      "aneis": [
+        {
+          "descricao": "asdas",
+          "nivelPoder": 123
+        }
+      ],
+      "amuleto": ""
+    },
+    {
+      "id": "1731124907101",
+      "nome": "necro",
+      "classe": "necromante",
+      "elmo": "",
+      "peitoral": "",
+      "calca": "",
+      "botas": "",
+      "aneis": [
+        {
+          "descricao": "asd",
+          "nivelPoder": 123
+        }
+      ],
+      "amuleto": ""
+    },
+    {
+      "id": "1731124916770",
+      "nome": "druida",
+      "classe": "druida",
+      "elmo": "",
+      "peitoral": "",
+      "calca": "",
+      "botas": "",
+      "aneis": [
+        {
+          "descricao": "asdas",
+          "nivelPoder": 123
+        }
+      ],
+      "amuleto": ""
+    },
+    {
+      "id": "1731124927852",
+      "nome": "renegado",
+      "classe": "renegado",
+      "elmo": "",
+      "peitoral": "",
+      "calca": "",
+      "botas": "",
+      "aneis": [
+        {
+          "descricao": "asda",
+          "nivelPoder": 1234
+        }
+      ],
+      "amuleto": ""
+    },
+    {
+      "id": "1731124957504",
+      "nome": "barbaro 2",
+      "classe": "barbaro",
+      "elmo": "",
+      "peitoral": "",
+      "calca": "",
+      "botas": "",
+      "aneis": [
+        {
+          "descricao": "asdasda",
+          "nivelPoder": 123
+        }
+      ],
+      "amuleto": ""
+    }
+  ]
+}
